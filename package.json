@@ -1,6 +1,6 @@
 {
   "name": "private-event-emitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Private Event Emitter",
   "license": "MIT",
   "homepage": "https://github.com/Ruben-Arushanyan/private-event-emitter",
